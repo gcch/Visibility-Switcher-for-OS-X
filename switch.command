@@ -2,7 +2,7 @@
 
 # -------------------------------------------------- #
 #
-# Visible/Invisible Switcher for OS X
+# Visibility Switcher for OS X
 #
 # Copyright (c) 2014 tag
 #
