@@ -1,4 +1,4 @@
-# Visible-Invisible-Switcher-for-OS-X
+# Visibility-Switcher-for-OS-X
 
 ## Description
 
